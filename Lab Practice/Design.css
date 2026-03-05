@@ -1,3 +1,15 @@
 body{
     background-color: rgb(127, 229, 255);
 }
+
+button{
+    color: white;
+    font-size: 20px;
+    background-color: green;
+}
+
+label{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    
+}
